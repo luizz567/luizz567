@@ -9,7 +9,6 @@
   <a href="https://github.com/luizz567">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizz567&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizz567&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img align="right" alt="poke-pic" height="150" style="border-radius:50px;" src="https://icon-library.com/images/pokemon-icon-png/pokemon-icon-png-10.jpg">
 </div>
   <div> 
   <a href="https://www.instagram.com/luizz567/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
