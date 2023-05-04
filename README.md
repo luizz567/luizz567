@@ -2,7 +2,6 @@
 
 
 - 🔭 Estudante de Ciência da Computação-UFAPE.
-- 🌱 Estudando Ruby on Rails.
 - 📫 Contate-me no email:martins.567@hotmail.com
 
 <div align="center">
