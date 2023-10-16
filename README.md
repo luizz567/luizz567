@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luiz+Gustavo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋;+Eu+me+chamo+Luiz+Gustavo!;" />
 </h1>
 <br/>
 
@@ -7,8 +7,7 @@
  
  🔭 Estudante de Ciência da Computação-UFAPE.
 
-
- ⚡ Analista de suporte junior na **Compass.uol**
+ 👔 Analista de suporte júnior na **Compass.uol**
  
  </div>
  
@@ -26,7 +25,7 @@
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luizz567/luizz567/output/github-contribution-grid-snake.svg" />
   
@@ -36,13 +35,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=luizz567&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizz567&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=luizz567&count_private=true&theme=react&border_radius=10" alt="estatísticas de sequência"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizz567&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="estatísticas do README" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizz567&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizz567&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="principais linguagens" />
 </div>
 
 <br/><br/>
@@ -50,7 +49,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+Mande+uma+mensagem+no+LinkedIn!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
 
 <br/>
