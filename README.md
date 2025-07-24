@@ -7,7 +7,7 @@
  
  🔭 Estudante de Ciência da Computação-UFAPE.
 
- 👔 Analista de suporte júnior na **Compass.uol**
+ 👔 Analista DevOps na **Compass.uol**
  
  </div>
  
