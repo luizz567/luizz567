@@ -7,7 +7,7 @@
  
  🔭 Estudante de Ciência da Computação-UFAPE.
 
- 👔 Analista DevOps na **Compass.uol**
+ 👔 Analista DevOps na **Samplemed**
  
  </div>
  
